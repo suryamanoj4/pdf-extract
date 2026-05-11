@@ -2,6 +2,8 @@
 
 A Python-based pipeline for extracting text from PDFs with special handling for Telugu Unicode characters. This tool can classify PDFs as text-based or image-based, extract text content, and properly process Telugu Unicode to ensure readability.
 
+!!! Do not yet have the telugu unicode mapping !!!
+
 ## Features
 
 - **PDF Classification**: Automatically determines if a PDF is text-based or image-based
